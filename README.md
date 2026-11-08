@@ -123,7 +123,7 @@
 
 **Пройденный путь:** идея → AI-ядро → визуальные референсы → дизайн-система → Web → архитектурный рефакторинг → интеграция и подготовка запуска.
 
-[Подробнее осоздании проекта →](PRESENTATION.md#development) · [Command Center — организация AI-assisted разработки](https://github.com/Vkuvalin/command-center-public)
+[Подробнее о создании проекта →](PRESENTATION.md#development) · [Command Center — организация AI-assisted разработки](https://github.com/Vkuvalin/command-center-public)
 
 <a id="status"></a>
 
