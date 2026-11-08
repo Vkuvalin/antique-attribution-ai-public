@@ -52,36 +52,50 @@
 ### Главная страница
 
 <p align="center">
-  <a href="assets/screenshots/home-reference.webp">
-    <img src="assets/screenshots/home-reference.webp" alt="Визуальный референс главной страницы Antique Attribution AI" width="768">
-  </a>
+  <img src="https://github.com/user-attachments/assets/b4f743d5-7d2e-49c9-803d-29d76339e30b" alt="Главная страница" width="100%" />
 </p>
 
+
 <details>
-<summary><strong>Рабочее пространство · результат проверки фотографий</strong></summary>
+<summary><strong>Рабочее пространство и результат проверки фотографий</strong></summary>
+
+Вход в рабочее пространство.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/010e5f5d-bb39-45f6-87a4-482eb36a24c5" alt="Рабочее пространство." width="100%" />
+</p>
 
 Проверка набора изображений, обратная связь и переход к дальнейшей подготовке материала.
 
 <p align="center">
-  <a href="assets/screenshots/photo-quality-reference.webp">
-    <img src="assets/screenshots/photo-quality-reference.webp" alt="Визуальный референс рабочего пространства после оценки фотографий" width="640">
-  </a>
+  <img src="https://github.com/user-attachments/assets/6308a91f-a9a6-41f4-b8f5-eb8c162cabb2" alt="Проверка фотографий" width="100%" />
+</p>
+
+</details>
+
+
+<details>
+<summary><strong>Финальный отчёт: форма представления результата</strong></summary>
+
+Фотографии, характеристики и пояснения собраны в единый документ с последовательными разделами.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7bdf92d9-9f86-4496-9abc-34a5da9b8479" alt="Финальный отчёт" width="100%" />
 </p>
 
 </details>
 
 <details>
-<summary><strong>Финальный отчёт · форма представления результата</strong></summary>
-
-Фотографии, характеристики и пояснения собраны в единый документ с последовательными разделами.
+<summary><strong>404</strong></summary>
 
 <p align="center">
-  <a href="assets/screenshots/report-reference.webp">
-    <img src="assets/screenshots/report-reference.webp" alt="Визуальный референс подробного отчёта об антикварном предмете" width="640">
-  </a>
+  <img src="https://github.com/user-attachments/assets/40ce7037-9e22-4a7c-ac8b-eb4a9aa8ac22" alt="404" width="100%" />
 </p>
 
 </details>
+
+
+
 
 <a id="engineering"></a>
 
